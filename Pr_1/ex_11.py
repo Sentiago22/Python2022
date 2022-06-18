@@ -1,4 +1,3 @@
-# Задача 11
 import random
 def fast_mul_gen(x, y):
     s = 0

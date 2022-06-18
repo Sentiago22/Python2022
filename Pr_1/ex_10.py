@@ -1,4 +1,3 @@
-# Задача 10
 import random
 def fast_mul(x, y):
 	s = 0
